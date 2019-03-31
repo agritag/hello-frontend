@@ -1,0 +1,31 @@
+#navbar{
+    padding:0;
+}
+
+#navbar-group {
+    padding: 0.5rem 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#navbarSupportedContent {
+    background-color:#999999;
+}
+
+#navbarSupportedContent .nav-link {
+    color: white;
+}
+
+#navbarSupportedContent .nav-item {
+    border-bottom: 1px solid #bfbbbb;
+}
+
+.container {
+    padding: 0;
+}
+
+.container .col{
+    padding: 1rem 2rem;
+    background-color: #e8efee;
+}
