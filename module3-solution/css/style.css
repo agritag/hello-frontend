@@ -29,3 +29,7 @@
     padding: 1rem 2rem;
     background-color: #e8efee; 
 }
+
+.container .col-lg-4, .col-md-6, .col-sm-12{
+    padding-bottom: 1rem; 
+}
